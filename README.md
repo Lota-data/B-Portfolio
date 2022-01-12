@@ -2,6 +2,7 @@
 
 Find my PYTHON & SQL(MSSQL) CODES HERE....
 
+
 SQL(SSMS)
 -  COVID DATA SQL QUERY file showcases my sql querying skills. I joined two files(Covid_deaths and covid_vaccinations) to achieve the desired goal. 
 
