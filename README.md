@@ -11,4 +11,4 @@ SQL(SSMS)
 
 
 PYTHON(Jupyter notebook)
-- 
+- The python file(LOTA PYTHON...) shows excellent data cleaning and correlation(Pearson) skills with python libraries like Pandas, numpy, seaborn and matplotlib. The "movies.csv" file was imported for this approach
